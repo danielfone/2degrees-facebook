@@ -1,4 +1,4 @@
-// http://dl.dropbox.com/u/496616/degrees-of-separation.js
+// http://danielfone.github.com/2degrees-facebook/degrees-of-separation.js
 (function(){
 
   function collectFriends(){
